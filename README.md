@@ -1,2 +1,2 @@
-# Adaptive-Multi-Factor-Authentication-MFA-Using-Behavioral-Biometrics-and-AI
+# Adaptive Multi Factor Authentication MFA Using Behavioral Biometrics and AI
 The Adaptive MFA System uses AI and behavioral biometrics to analyze typing, gestures, and device telemetry, assigning real-time risk scores. It adapts authentication, triggering facial or voice checks only for high-risk cases. With deepfake-resistant liveness detection and continuous monitoring, it ensures seamless and secure user access.
